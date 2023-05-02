@@ -1,4 +1,5 @@
 const express = require('express');
+var cors = require('cors')
 const app = express();
 const port = process.env.PORT || 5000;
 
@@ -7,6 +8,8 @@ const recipe = require('./data/recipe.json')
 app.get('/', (req, res) =>{
     res.send('This is recipe hunting!!')
 });
+
+app.use(cors())
 
 app.get('/recipe', (req, res) =>{
     res.send(recipe)
