@@ -3,7 +3,7 @@
         "id": 1,
         "picture": "https://i.postimg.cc/T3tLx3dL/pexels-felicity-tai-7965977.jpg",
         "userPicture": "https://i.postimg.cc/qRT6kbVn/pexels-kampus-production-8353841.jpg",
-        "time" : "1 hours 10min ego",
+        "time" : "1 hours 10 min ago",
         "userRating": 4.9,
         "yearOfExperience": 9,
         "name": "Francis Johnston",
@@ -14,24 +14,25 @@
         "email": "santosmelendez@lotron.com",
         "phone": "+1 (838) 555-3069",
         "address": "857 Grimes Road, Hickory, Michigan",
-        "about": "Aliqua aliqua do cillum qui id id incididunt eu eu sint magna. Eiusmod consectetur velit elit excepteur pariatur sint excepteur esse. Non dolor sunt occaecat ad officia. Nulla tempor reprehenderit id labore nostrud.\r\n",
-        "userComment": "Est ipsum officia id dolore laboris enim reprehenderit veniam labore. Incididunt proident aute occaecat mollit aliquip sint est excepteur exercitation tempor ea. Qui ad reprehenderit dolore dolore do laboris et.\r\n",
+        "about": " A Chinese-American chef, author, and television personality who specializes in Chinese cuisine. He is best known for his show Yan Can Cook which has aired in over 50 countries.",
+        "userComment": "Char Siu is one of my favorite barbecue dishes. The sweet and savory marinade gives the pork a caramelized glaze that's irresistible. It's great on its own or in dishes like fried rice or noodles. - This user enjoys Char Siu, a Chinese barbecued pork dish that is marinated in a sweet and savory sauce and then grilled or roasted, and finds it to be a versatile and delicious ingredient for various dishes.",
         "numberOfRecife": 14,
         "like": 418,
-        "eventDate": "2014-05-14T03:16:35 -06:00",
+        "eventDate": "April 12, 2023",
         "foodName": "Britney Acevedo",
-        "newsTitle": "Lola Paul",
+        "newsTitle": "Spicy Sichuan Shrimp",
+        "newsAbout": "is a Sichuan dish that features diced chicken stir-fried with vegetables, peanuts, and a spicy sauce. It's a popular and flavorful Chinese dish that can be customized to your liking by adjusting the heat level.",
         "recipeTypes1": [
           {
             "ingredients": [
-              "nostrud",
-              "in",
-              "pariatur",
-              "aliquip",
-              "aliqua"
+              "bite",
+              "Dried",
+              "Sichuan",
+              "Peanuts",
+              "onions"
             ],
-            "recipeName": "Robles Jordan",
-            "cookingMethos": "Ut eu consequat velit ad. Ipsum magna laborum dolore aute labore nostrud nostrud exercitation mollit quis ex non. In dolore ad culpa commodo consequat sit ut voluptate occaecat adipisicing ex culpa aliquip ad. Fugiat exercitation sint et Lorem Lorem culpa cillum eiusmod magna pariatur ut officia. Irure fugiat eiusmod commodo esse non cillum et.\r\n",
+            "recipeName": "Kung Pao Chicken",
+            "cookingMethos": "The short cooking method for Mongolian Beef is stir-fry. Mongolian Beef is typically made by stir-frying thin slices of flank steak with vegetables such as onions and bell peppers, and then tossing them in a savory and slightly sweet sauce made with soy sauce, brown sugar, garlic, and ginger. The stir-frying process is quick and requires high heat, allowing the beef to cook evenly and quickly while retaining its tender texture.",
             "rating": 4.8,
             "foodImage": "https://i.postimg.cc/xj4bpqX8/pexels-ambika-7812134.jpg"
           }
@@ -39,14 +40,14 @@
         "recipeTypes2": [
           {
             "ingredients": [
-              "qui",
-              "culpa",
-              "in",
-              "culpa",
-              "commodo"
+              "Pork belly",
+              "Salt",
+              "Five-spice",
+              "vinegar",
+              "sugar"
             ],
-            "recipeName": "Amber Turner",
-            "cookingMethos": "Deserunt incididunt voluptate id voluptate velit tempor ut velit irure proident anim anim in. Velit cillum do cupidatat et occaecat amet minim eu irure aliqua. Eiusmod occaecat fugiat ut reprehenderit ad ipsum eu.\r\n",
+            "recipeName": "Crispy Pork Belly",
+            "cookingMethos": "The short cooking method for Wonton Soup is boil/simmer. Wonton Soup is typically made by boiling wontons filled with a mixture of ground meat (such as pork or shrimp), seasonings, and vegetables in a pot of water or chicken broth. The wontons are cooked until they float to the surface, indicating they are fully cooked. The soup is then typically simmered with additional seasonings and vegetables, such as bok choy or carrots, to add flavor and nutrition to the dish.",
             "rating": 5,
             "foodImage": "https://i.postimg.cc/3xHNzGY8/pexels-gerald-jake-abangan-2689419.jpg"
           }
@@ -54,14 +55,14 @@
         "recipeTypes3": [
           {
             "ingredients": [
-              "consectetur",
-              "culpa",
-              "culpa",
-              "nisi",
-              "esse"
+              "Chicken",
+              "Eggs",
+              "Cornstarch",
+              "sauce",
+              "onions"
             ],
-            "recipeName": "Goodwin Singleton",
-            "cookingMethos": "Labore incididunt irure sit cupidatat proident. Dolore pariatur proident duis minim incididunt amet officia excepteur tempor. Reprehenderit adipisicing magna et ea excepteur reprehenderit labore tempor est Lorem magna ad nulla. Pariatur reprehenderit laborum ad aute voluptate aliqua ipsum labore ipsum officia sint mollit. Nisi aliqua eiusmod occaecat eiusmod culpa mollit ullamco cupidatat. Id anim magna nisi proident pariatur ullamco ad.\r\n",
+            "recipeName": "Sweet and Sour Pork",
+            "cookingMethos": "The short cooking method for Wonton Soup is boil/simmer. Wonton Soup is typically made by boiling wontons filled with a mixture of ground meat (such as pork or shrimp), seasonings, and vegetables in a pot of water or chicken broth. The wontons are cooked until they float to the surface, indicating they are fully cooked. The soup is then typically simmered with additional seasonings and vegetables, such as bok choy or carrots, to add flavor and nutrition to the dish.",
             "rating": 4.7,
             "foodImage": "https://i.postimg.cc/qRgv2XXL/pexels-pixabay-533325.jpg"
           }
@@ -71,8 +72,8 @@
         "id": 2,
         "picture": "https://i.postimg.cc/fykgvkJm/pexels-cottonbro-studio-4253302.jpg",
         "userPicture": "https://i.postimg.cc/v8vfmsmm/pexels-anna-shvets-5325105.jpg",
-        "time" : "1 hours 10min ego",
-        "userRating": 5,
+        "time" : "1 hours 10 min ago",
+        "userRating": 4.5,
         "yearOfExperience": 7,
         "name": "Lester Banks",
         "userName": "Corine Silva",
@@ -82,24 +83,25 @@
         "email": "corinesilva@digiprint.com",
         "phone": "+1 (837) 459-2054",
         "address": "370 Hunterfly Place, Geyserville, Minnesota",
-        "about": "Adipisicing dolor proident dolore eu dolor eu magna pariatur nostrud id commodo excepteur. Et laboris deserunt minim cillum velit cillum amet cupidatat nulla ex commodo dolor magna sit. Dolore do excepteur incididunt nulla incididunt et est. Cillum voluptate sint commodo aliqua excepteur amet sunt proident. Mollit mollit ad Lorem cupidatat do ipsum cillum sunt irure do deserunt. Laborum duis non minim enim nulla ad dolore nostrud nulla.\r\n",
-        "userComment": "Ea nostrud ullamco aliquip proident laborum ex aliqua aute pariatur culpa. Cupidatat qui sit minim ex consectetur dolore fugiat labore aliquip velit sint incididunt aliqua. Ad laborum mollit culpa aliquip cupidatat laborum exercitation non et cillum anim velit non. Eu Lorem esse adipisicing minim minim ut. Nostrud sit reprehenderit Lorem est voluptate. Esse velit duis nostrud incididunt officia in irure exercitation dolor anim cupidatat enim sint. Aliquip esse adipisicing irure exercitation irure ad excepteur id aute consectetur.\r\n",
+        "about": " An American chef and television personality of Chinese descent who specializes in fusion cuisine. He is best known for his show Simply Ming and emphasizes the use of fresh ingredients and bold flavors.",
+        "userComment": "I love the freshness of Hot and Sour Soup. The combination of tangy vinegar, earthy mushrooms, and tender tofu is so satisfying. It's the perfect soup for a cold day!- This user appreciates the fresh and tangy qualities of Hot and Sour Soup, a classic Chinese soup made with a variety of ingredients such as tofu, mushrooms, and bamboo shoots.",
         "numberOfRecife": 17,
         "like": 462,
-        "eventDate": "2016-04-19T05:11:07 -06:00",
+        "eventDate": "April 18, 2023",
         "foodName": "Shawn Kerr",
-        "newsTitle": "Bethany Foster",
+        "newsTitle": "Crispy Mongolian Beef",
+        "newsAbout": "Egg Fried Rice is a simple but delicious Chinese dish made by stir-frying leftover rice with eggs, vegetables, and seasonings. It's a popular and versatile side dish that can be paired with a variety of Chinese entrees.",
         "recipeTypes1": [
           {
             "ingredients": [
-              "consequat",
-              "nisi",
-              "nisi",
-              "sunt",
-              "eiusmod"
+              "bite",
+              "Dried",
+              "Sichuan",
+              "Peanuts",
+              "onions"
             ],
-            "recipeName": "Kirk Parker",
-            "cookingMethos": "Labore culpa cupidatat fugiat mollit sit et ut qui qui esse in enim nulla. Minim magna eiusmod nostrud exercitation tempor irure sunt. Dolor pariatur Lorem consequat ut veniam officia consequat magna veniam. Eiusmod aliqua eiusmod aliquip ipsum culpa nisi ex id. Veniam sunt elit consectetur incididunt deserunt aliquip ullamco cupidatat. Deserunt fugiat fugiat enim ut ad ex incididunt nulla consectetur duis ullamco ullamco ea. Pariatur mollit mollit in id labore magna.\r\n",
+            "recipeName": "Egg Drop Soup",
+            "cookingMethos": "The short cooking method for Wonton Soup is boil/simmer. Wonton Soup is typically made by boiling wontons filled with a mixture of ground meat (such as pork or shrimp), seasonings, and vegetables in a pot of water or chicken broth. The wontons are cooked until they float to the surface, indicating they are fully cooked. The soup is then typically simmered with additional seasonings and vegetables, such as bok choy or carrots, to add flavor and nutrition to the dish.",
             "rating": 4.7,
             "foodImage": "https://i.postimg.cc/h460wKvD/pexels-engin-akyurt-2673353.jpg"
           }
@@ -107,14 +109,14 @@
         "recipeTypes2": [
           {
             "ingredients": [
-              "sint",
-              "exercitation",
-              "laborum",
-              "irure",
-              "cillum"
+              "Pork belly",
+              "Salt",
+              "Five-spice",
+              "vinegar",
+              "sugar"
             ],
-            "recipeName": "Tamera Bowman",
-            "cookingMethos": "Aliquip ullamco sit occaecat culpa in. Labore enim adipisicing ea anim cupidatat cupidatat eiusmod occaecat ut magna in aliqua sint elit. Sint excepteur nulla ad reprehenderit do. Occaecat do deserunt cillum pariatur veniam.\r\n",
+            "recipeName": "Fried Rice",
+            "cookingMethos": "The short cooking method for Kung Pao Chicken is stir-fry. Kung Pao Chicken is a classic Sichuan dish that typically involves stir-frying diced chicken, vegetables such as bell peppers and zucchini, and peanuts in a spicy and savory sauce made with Sichuan peppercorns, chili peppers, soy sauce, and vinegar. The stir-frying process is quick and requires high heat, allowing the chicken and vegetables to cook quickly while retaining their texture and flavors.",
             "rating": 4.1,
             "foodImage": "https://i.postimg.cc/cH6Q9zNt/pexels-marianna-ole-764925.jpg"
           }
@@ -122,14 +124,14 @@
         "recipeTypes3": [
           {
             "ingredients": [
-              "commodo",
-              "duis",
-              "ad",
-              "quis",
-              "sit"
+              "Chicken",
+              "Eggs",
+              "Cornstarch",
+              "sauce",
+              "onions"
             ],
-            "recipeName": "Andrews Short",
-            "cookingMethos": "Eu sint culpa nulla proident fugiat ex commodo adipisicing id aliquip in. Ex veniam amet nisi ut aute ullamco in elit cupidatat elit nulla. Ipsum aute ex id est minim nulla. Aute irure adipisicing dolor incididunt anim cillum consectetur aliqua tempor aliquip esse reprehenderit ut. Enim incididunt aute consectetur labore do sint nisi eiusmod dolore duis esse officia. Aute amet cillum elit et exercitation veniam aute consequat id. Ullamco consectetur nostrud voluptate esse magna dolore cupidatat aliquip.\r\n",
+            "recipeName": "General Tso's Chicken",
+            "cookingMethos": "The short cooking method for Mongolian Beef is stir-fry. Mongolian Beef is typically made by stir-frying thin slices of flank steak with vegetables such as onions and bell peppers, and then tossing them in a savory and slightly sweet sauce made with soy sauce, brown sugar, garlic, and ginger. The stir-frying process is quick and requires high heat, allowing the beef to cook evenly and quickly while retaining its tender texture.",
             "rating": 4.5,
             "foodImage": "https://i.postimg.cc/0NjMPJXL/pexels-bam-awey-2015191.jpg"
           }
@@ -139,7 +141,7 @@
         "id": 3,
         "picture": "https://i.postimg.cc/pL3vzwkc/pexels-ivan-samkov-8951146.jpg",
         "userPicture": "https://i.postimg.cc/W3k8yfmk/pexels-andrea-piacquadio-3771807.jpg",
-        "time" : "1 hours 10min ego",
+        "time" : "1 hours 10 min ago",
         "userRating": 4.8,
         "yearOfExperience": 5,
         "name": "Chaney Austin",
@@ -150,24 +152,25 @@
         "email": "parsonskane@goko.com",
         "phone": "+1 (954) 487-3376",
         "address": "579 Coles Street, Zortman, Tennessee",
-        "about": "Velit nisi tempor minim labore pariatur nostrud qui anim. Deserunt consectetur tempor anim dolor consectetur sint non incididunt. Voluptate ex dolor tempor ex dolor est qui magna nisi nulla cupidatat magna elit aute. Sunt eu in sint labore incididunt. Eiusmod elit consequat non reprehenderit et voluptate proident officia tempor.\r\n",
-        "userComment": "Elit ut aliqua commodo nulla velit consequat reprehenderit non ullamco commodo et dolor mollit cillum. Id dolore deserunt id id magna officia aute ipsum dolor est. Quis nisi nulla excepteur veniam reprehenderit labore occaecat quis.\r\n",
+        "about": "A Chinese-American chef and cookbook author who has written extensively on Chinese cuisine. He is known for his expertise in wok cooking and his ability to make complex dishes accessible to home cooks.",
+        "userComment": "Mapo Tofu is my new favorite dish! The combination of soft tofu, ground pork, and spicy Sichuan sauce is so flavorful and satisfying. It's definitely a comfort food for me now. - This user has discovered Mapo Tofu, a popular Sichuan dish made with soft tofu, ground pork, and a spicy sauce, and enjoys its comforting and flavorful qualities.",
         "numberOfRecife": 16,
         "like": 447,
-        "eventDate": "2020-01-28T08:08:46 -06:00",
+        "eventDate": "April 24, 2023",
         "foodName": "Kathrine Sanders",
-        "newsTitle": "Maldonado Harrison",
+        "newsTitle": "Vegetarian Dan Dan Noodles",
+        "newsAbout": "Hot and Sour Soup is a classic Chinese soup that features a tangy and spicy broth with ingredients like tofu, mushrooms, bamboo shoots, and egg. It's a comforting and flavorful soup that's perfect for a cold day",
         "recipeTypes1": [
           {
             "ingredients": [
-              "fugiat",
-              "irure",
-              "enim",
-              "enim",
-              "amet"
+              "Chicken",
+              "Eggs",
+              "Cornstarch",
+              "sauce",
+              "onions"
             ],
-            "recipeName": "Waller Mcmahon",
-            "cookingMethos": "In velit fugiat veniam nostrud aliquip duis qui ex ea anim consequat proident non. Dolor labore tempor aliquip non sunt irure est non esse tempor cillum. Eu ea nostrud voluptate officia elit aliqua officia consequat incididunt reprehenderit. Est esse ad consequat nostrud. Excepteur pariatur magna ex commodo nostrud consequat.\r\n",
+            "recipeName": "Wonton Soup",
+            "cookingMethos": "The short cooking method for Mongolian Beef is stir-fry. Mongolian Beef is typically made by stir-frying thin slices of flank steak with vegetables such as onions and bell peppers, and then tossing them in a savory and slightly sweet sauce made with soy sauce, brown sugar, garlic, and ginger. The stir-frying process is quick and requires high heat, allowing the beef to cook evenly and quickly while retaining its tender texture.",
             "rating": 3.9,
             "foodImage": "https://i.postimg.cc/SRfNWyt6/pexels-lukas-1352274.jpg"
           }
@@ -175,14 +178,14 @@
         "recipeTypes2": [
           {
             "ingredients": [
-              "mollit",
-              "aute",
-              "ex",
-              "deserunt",
-              "quis"
+              "Pork belly",
+              "Salt",
+              "Five-spice",
+              "vinegar",
+              "sugar"
             ],
-            "recipeName": "Keith Vaughan",
-            "cookingMethos": "Nulla Lorem ad nostrud dolor occaecat dolor aute est. Fugiat enim consequat non qui ad officia et consectetur irure voluptate voluptate minim. Veniam dolore et pariatur ad.\r\n",
+            "recipeName": "Chinese Dumplings",
+            "cookingMethos": "The short cooking method for Wonton Soup is boil/simmer. Wonton Soup is typically made by boiling wontons filled with a mixture of ground meat (such as pork or shrimp), seasonings, and vegetables in a pot of water or chicken broth. The wontons are cooked until they float to the surface, indicating they are fully cooked. The soup is then typically simmered with additional seasonings and vegetables, such as bok choy or carrots, to add flavor and nutrition to the dish.",
             "rating": 5,
             "foodImage": "https://i.postimg.cc/gkMGdB92/pexels-ehioma-osih-11743998.jpg"
           }
@@ -190,13 +193,13 @@
         "recipeTypes3": [
           {
             "ingredients": [
-              "Lorem",
-              "culpa",
-              "sit",
-              "deserunt",
-              "amet"
+              "bite",
+              "Dried",
+              "Sichuan",
+              "Peanuts",
+              "onions"
             ],
-            "recipeName": "Leticia Hansen",
+            "recipeName": "Lo Mein Noodles",
             "cookingMethos": "Anim cupidatat sit adipisicing Lorem ipsum minim labore anim do eiusmod do proident. Fugiat officia proident laborum nisi consectetur sunt sit dolor. Aute et officia ipsum commodo voluptate fugiat ipsum adipisicing veniam qui tempor ipsum Lorem.\r\n",
             "rating": 4.3,
             "foodImage": "https://i.postimg.cc/BQbd5SyJ/pexels-quang-anh-ha-nguyen-884600.jpg"
@@ -205,9 +208,9 @@
       },
       {
         "id": 4,
-        "picture": "https://i.postimg.cc/8kd9PjWr/pexels-linkedin-sales-navigator-2182970.jpg",
+        "picture": "https://i.postimg.cc/sDr7C7qt/pexels-sides-imagery-3351927.jpg",
         "userPicture": "https://i.postimg.cc/yNM6BkRb/pexels-linkedin-sales-navigator-2182982.jpg",
-        "time" : "1 hours 10min ego",
+        "time" : "1 hours 10 min ago",
         "userRating": 4.9,
         "yearOfExperience": 9,
         "name": "Knowles Trujillo",
@@ -218,24 +221,25 @@
         "email": "harmonfarley@austex.com",
         "phone": "+1 (992) 518-2177",
         "address": "905 Maple Street, Malott, Pennsylvania",
-        "about": "Et incididunt voluptate enim ex pariatur eu sit officia. Cupidatat sit consequat proident reprehenderit elit sit in ullamco excepteur officia pariatur aliquip. Enim ipsum nulla adipisicing fugiat irure aute do cupidatat et aute officia non irure esse.\r\n",
-        "userComment": "Occaecat ea veniam id duis enim. Qui proident nisi magna enim cupidatat Lorem occaecat. Deserunt voluptate esse laborum nostrud. Enim deserunt amet Lorem officia non mollit reprehenderit incididunt quis nisi quis dolore ad.\r\n",
+        "about": "A Hong Kong-born Canadian chef known for his innovative fusion cuisine. He has multiple restaurants around the world and has been recognized with numerous culinary awards.",
+        "userComment": "I never knew how easy it was to make dumplings at home until I tried it myself. It's a fun activity to do with friends or family, and they taste so much better than store-bought! - This user enjoys making dumplings from scratch, which is a fun and social activity that results in delicious and satisfying dumplings.",
         "numberOfRecife": 18,
         "like": 533,
-        "eventDate": "2015-10-20T11:29:28 -06:00",
+        "eventDate": "April 28, 2023",
         "foodName": "Carter Burke",
-        "newsTitle": "Peck Mendez",
+        "newsTitle": "Homemade Wonton Soup",
+        "newsAbout": "Crispy Pork Belly is a Chinese dish made by roasting or frying a piece of pork belly until it's crispy on the outside and tender on the inside. It's a rich and savory dish that's often served as a main course.",
         "recipeTypes1": [
           {
             "ingredients": [
-              "do",
-              "occaecat",
-              "nulla",
-              "minim",
-              "duis"
+              "bite",
+              "Dried",
+              "Sichuan",
+              "Peanuts",
+              "onions"
             ],
-            "recipeName": "Estela Riley",
-            "cookingMethos": "Reprehenderit excepteur esse nostrud reprehenderit. Ex ut occaecat et quis laboris excepteur. Et laboris officia velit aliquip ad deserunt consequat est cupidatat velit proident consequat est exercitation. Incididunt pariatur qui sunt Lorem incididunt nostrud cillum minim voluptate minim velit. Anim et cillum ipsum et exercitation velit dolor commodo ut esse occaecat qui veniam. Dolore ex elit duis magna aliqua exercitation. Excepteur dolor incididunt dolor eu non.\r\n",
+            "recipeName": "Mapo Tofu",
+            "cookingMethos": "The short cooking method for Mongolian Beef is stir-fry. Mongolian Beef is typically made by stir-frying thin slices of flank steak with vegetables such as onions and bell peppers, and then tossing them in a savory and slightly sweet sauce made with soy sauce, brown sugar, garlic, and ginger. The stir-frying process is quick and requires high heat, allowing the beef to cook evenly and quickly while retaining its tender texture.",
             "rating": 4.5,
             "foodImage": "https://i.postimg.cc/ZqJ5fhZV/pexels-nadin-sh-14822887.jpg"
           }
@@ -243,14 +247,14 @@
         "recipeTypes2": [
           {
             "ingredients": [
-              "duis",
-              "nulla",
-              "aliqua",
-              "deserunt",
-              "qui"
+              "Pork belly",
+              "Salt",
+              "Five-spice",
+              "vinegar",
+              "sugar"
             ],
-            "recipeName": "Navarro Sheppard",
-            "cookingMethos": "Aliqua aliquip et sit voluptate. Consequat occaecat minim dolor eiusmod nostrud amet nulla adipisicing tempor sunt duis elit et nulla. Magna veniam occaecat deserunt fugiat excepteur. Consectetur nostrud labore nostrud enim enim et culpa ullamco consectetur fugiat consequat. Laborum ut incididunt amet mollit dolore quis labore in velit exercitation elit amet excepteur.\r\n",
+            "recipeName": "Peking Duck",
+            "cookingMethos": "The short cooking method for Kung Pao Chicken is stir-fry. Kung Pao Chicken is a classic Sichuan dish that typically involves stir-frying diced chicken, vegetables such as bell peppers and zucchini, and peanuts in a spicy and savory sauce made with Sichuan peppercorns, chili peppers, soy sauce, and vinegar. The stir-frying process is quick and requires high heat, allowing the chicken and vegetables to cook quickly while retaining their texture and flavors.",
             "rating": 3.5,
             "foodImage": "https://i.postimg.cc/B6Qcfy5C/pexels-cottonbro-studio-4543099.jpg"
           }
@@ -258,14 +262,14 @@
         "recipeTypes3": [
           {
             "ingredients": [
-              "esse",
-              "deserunt",
-              "ad",
-              "excepteur",
-              "Lorem"
+              "Chicken",
+              "Eggs",
+              "Cornstarch",
+              "sauce",
+              "onions"
             ],
-            "recipeName": "Faulkner Rice",
-            "cookingMethos": "In non voluptate veniam incididunt qui mollit pariatur nulla magna ipsum. Et aute est consequat ipsum commodo amet sint anim duis ex. Non sint laborum ullamco duis voluptate et proident. Reprehenderit fugiat et qui id sit. Ex sunt do in ea voluptate nisi amet id dolor cupidatat et sint anim. Culpa qui occaecat aute excepteur sunt reprehenderit dolore ut.\r\n",
+            "recipeName": "Ma La Xiang Gu",
+            "cookingMethos": "The short cooking method for Wonton Soup is boil/simmer. Wonton Soup is typically made by boiling wontons filled with a mixture of ground meat (such as pork or shrimp), seasonings, and vegetables in a pot of water or chicken broth. The wontons are cooked until they float to the surface, indicating they are fully cooked. The soup is then typically simmered with additional seasonings and vegetables, such as bok choy or carrots, to add flavor and nutrition to the dish.",
             "rating": 3.2,
             "foodImage": "https://i.postimg.cc/6q4Z9N8C/pexels-polina-tankilevitch-6419749.jpg"
           }
@@ -275,7 +279,7 @@
         "id": 5,
         "picture": "https://i.postimg.cc/kGTRfJpd/pexels-morna-tang-3873973.jpg",
         "userPicture": "https://i.postimg.cc/rsgfGRCn/pexels-andrea-piacquadio-3778603.jpg",
-        "time" : "2 hours 30min ego",
+        "time" : "2 hours 30 min ago",
         "userRating": 4.4,
         "yearOfExperience": 6,
         "name": "Stefanie Castaneda",
@@ -286,24 +290,25 @@
         "email": "rushfranks@quailcom.com",
         "phone": "+1 (990) 564-3098",
         "address": "380 Beaver Street, Hall, Montana",
-        "about": "Eiusmod velit do dolor quis sunt dolor. Veniam laboris culpa voluptate sunt proident aliqua duis enim exercitation. In fugiat consectetur dolor cupidatat velit incididunt eiusmod id officia mollit culpa sunt et. Amet ad occaecat mollit ex Lorem veniam tempor. Consectetur exercitation exercitation id voluptate nostrud nostrud.\r\n",
-        "userComment": "Laboris consequat eu et irure cupidatat ullamco minim. Deserunt sint quis id quis aute Lorem consequat voluptate commodo. Magna duis officia elit voluptate id.\r\n",
+        "about": "A British chef and television personality who specializes in Chinese cuisine. She is known for her show Chinese Food Made Easy and emphasizes the use of fresh, healthy ingredients.",
+        "userComment": "Fried rice is one of my favorite comfort foods. It's simple yet satisfying, and you can easily customize it with different proteins and veggies. Plus, it's a great way to use up leftover rice!- This user appreciates the versatility and simplicity of fried rice, which can be made with a variety of ingredients and is a great way to use up leftover rice.",
         "numberOfRecife": 16,
         "like": 549,
-        "eventDate": "2021-10-20T11:58:51 -06:00",
+        "eventDate": "April 22, 2023",
         "foodName": "Schultz Collier",
-        "newsTitle": "Merle Berg",
+        "newsTitle": "Steamed Pork Dumplings",
+        "newsAbout": "Beef and Broccoli Stir Fry is a popular Chinese dish made by stir-frying sliced beef and broccoli with a savory sauce. It's a quick and easy dish that's perfect for a weeknight dinner.",
         "recipeTypes1": [
           {
             "ingredients": [
-              "amet",
-              "reprehenderit",
-              "velit",
-              "esse",
-              "enim"
+              "Chicken",
+              "Eggs",
+              "Cornstarch",
+              "sauce",
+              "onions"
             ],
-            "recipeName": "Blankenship Langley",
-            "cookingMethos": "Nisi cupidatat do esse culpa ea irure laborum voluptate. Nisi eiusmod ex culpa veniam commodo aliquip aliquip aute do laborum. Anim ipsum velit amet ipsum cupidatat cupidatat aliqua do consectetur excepteur velit duis. Amet pariatur mollit culpa excepteur ullamco. Nostrud ut id occaecat duis irure.\r\n",
+            "recipeName": "Dan Dan Noodles",
+            "cookingMethos": "The short cooking method for Wonton Soup is boil/simmer. Wonton Soup is typically made by boiling wontons filled with a mixture of ground meat (such as pork or shrimp), seasonings, and vegetables in a pot of water or chicken broth. The wontons are cooked until they float to the surface, indicating they are fully cooked. The soup is then typically simmered with additional seasonings and vegetables, such as bok choy or carrots, to add flavor and nutrition to the dish.",
             "rating": 4.5,
             "foodImage": "https://i.postimg.cc/hGwxNjjK/pexels-nataliya-vaitkevich-6252733.jpg"
           }
@@ -317,8 +322,8 @@
               "consectetur",
               "officia"
             ],
-            "recipeName": "Everett Madden",
-            "cookingMethos": "Minim ea Lorem veniam ea laboris incididunt voluptate commodo officia esse eiusmod et ut. Commodo exercitation laboris occaecat proident Lorem sit in occaecat quis irure ipsum ipsum ex. Nulla nisi enim est dolore et eu sit officia irure velit. Enim nulla adipisicing do officia ipsum anim anim adipisicing velit ea. Anim magna commodo ut amet dolore do sunt consectetur laboris magna sit ut excepteur.\r\n",
+            "recipeName": "Char Siu",
+            "cookingMethos": "The short cooking method for Kung Pao Chicken is stir-fry. Kung Pao Chicken is a classic Sichuan dish that typically involves stir-frying diced chicken, vegetables such as bell peppers and zucchini, and peanuts in a spicy and savory sauce made with Sichuan peppercorns, chili peppers, soy sauce, and vinegar. The stir-frying process is quick and requires high heat, allowing the chicken and vegetables to cook quickly while retaining their texture and flavors.",
             "rating": 4.2,
             "foodImage": "https://i.postimg.cc/MKPG9LXS/pexels-cottonbro-studio-4543100.jpg"
           }
@@ -326,14 +331,14 @@
         "recipeTypes3": [
           {
             "ingredients": [
-              "incididunt",
-              "excepteur",
-              "cillum",
-              "et",
-              "anim"
+              "bite",
+              "Dried",
+              "Sichuan",
+              "Peanuts",
+              "onions"
             ],
-            "recipeName": "Kay Ochoa",
-            "cookingMethos": "In ad in exercitation officia. Consequat quis tempor incididunt id culpa eiusmod consequat pariatur. Laborum anim nulla sunt anim fugiat ex enim ullamco eu. Laboris minim elit laborum adipisicing. Nisi commodo dolor nulla id et Lorem eu cupidatat in tempor ipsum nulla laboris. Aute commodo consectetur irure enim quis laboris cillum adipisicing consequat ex eu velit. Amet nulla dolor duis laboris.\r\n",
+            "recipeName": "Hot and Sour Soup",
+            "cookingMethos": "The short cooking method for Mongolian Beef is stir-fry. Mongolian Beef is typically made by stir-frying thin slices of flank steak with vegetables such as onions and bell peppers, and then tossing them in a savory and slightly sweet sauce made with soy sauce, brown sugar, garlic, and ginger. The stir-frying process is quick and requires high heat, allowing the beef to cook evenly and quickly while retaining its tender texture.",
             "rating": 4.6,
             "foodImage": "https://i.postimg.cc/wMbdQS24/pexels-nataliya-vaitkevich-6252730.jpg"
           }
@@ -341,37 +346,38 @@
       },
       {
         "id": 6,
-        "picture": "https://i.postimg.cc/Pr36PZqN/pexels-andrea-piacquadio-3779414.jpg",
-        "userPicture": "http://placehold.it/32x32",
-        "time" : "1 hours 50min ego",
-        "userRating": 4.8,
+        "picture": "https://i.postimg.cc/kXhCb3K9/pexels-ron-lach-8879620.jpg",
+        "userPicture": "https://i.postimg.cc/DZCjMF2w/pexels-dinielle-de-veyra-4195342-1.jpg",
+        "time" : "1 hours 50 min ago",
+        "userRating": 4.2,
         "yearOfExperience": 5,
         "name": "Judy Gates",
         "userName": "Barbra Kelly",
         "userGender": "female",
         "Gender": "female",
         "company": "REALMO",
-        "email": "barbrakelly@realmo.com",
+        "email": "March 01, 2023",
         "phone": "+1 (872) 546-2034",
         "address": "526 Will Place, Cobbtown, Kansas",
-        "about": "Anim ex non cillum minim sunt proident proident. Dolore reprehenderit aute eu deserunt aute pariatur duis reprehenderit velit eiusmod elit amet. Mollit minim irure dolore tempor sunt mollit Lorem ut. Duis fugiat sint ipsum esse do eu dolore aliqua amet. Lorem id adipisicing exercitation dolore nulla mollit ipsum culpa excepteur. Reprehenderit est tempor labore aliquip laborum voluptate aute adipisicing Lorem eu eiusmod. Proident aute minim officia enim eu deserunt tempor mollit labore eu occaecat anim ullamco ullamco.\r\n",
-        "userComment": "Veniam fugiat culpa sint exercitation ullamco Lorem cillum nostrud dolor voluptate in aliquip minim eu. Culpa Lorem labore magna exercitation dolore mollit est duis aute id minim ut incididunt. Anim Lorem ad exercitation commodo dolor nostrud. Aute adipisicing consectetur ex qui ex aliquip commodo excepteur in incididunt sit. Quis duis mollit ullamco exercitation amet dolore irure. Irure eiusmod proident sit id culpa magna ex nulla nulla commodo aute do. Deserunt exercitation ea veniam veniam.\r\n",
+        "about": "An Australian chef and television personality of Chinese descent who specializes in modern Chinese cuisine. She is known for her commitment to using sustainable, locally sourced ingredients and her emphasis on traditional Chinese techniques.",
+        "userComment": "I love Kung Pao Chicken! It's the perfect balance of spicy and savory, with tender chicken and crunchy peanuts. It's my go-to dish when I'm craving Chinese food. - This user enjoys the classic Sichuan dish of Kung Pao Chicken, which features stir-fried chicken, vegetables, and peanuts in a spicy sauce.",
         "numberOfRecife": 15,
         "like": 441,
-        "eventDate": "2022-09-28T05:37:38 -06:00",
+        "eventDate": "March 02, 2023",
         "foodName": "Phillips Odonnell",
-        "newsTitle": "Cochran Becker",
+        "newsTitle": "Hot and Sour Soup",
+        "newsAbout": "Steamed Dim Sum Platter is a collection of bite-sized Chinese dishes that are typically served in bamboo baskets. They can include a variety of dumplings, buns, and other small dishes like spare ribs or chicken feet. It's a fun and social meal that's great for sharing with friends or family.",
         "recipeTypes1": [
           {
             "ingredients": [
-              "aliqua",
-              "in",
-              "pariatur",
-              "aliquip",
-              "laborum"
+              "bite",
+              "Dried",
+              "Sichuan",
+              "Peanuts",
+              "onions"
             ],
-            "recipeName": "Estelle Ramsey",
-            "cookingMethos": "Non nostrud excepteur ea cupidatat cillum proident irure proident. Et pariatur pariatur est ullamco proident excepteur nulla eu sit proident quis excepteur est velit. Velit cupidatat velit sunt elit. Lorem deserunt cillum do esse cillum sit voluptate do ullamco anim.\r\n",
+            "recipeName": "Kung Pao Chicken",
+            "cookingMethos": "The short cooking method for Mongolian Beef is stir-fry. Mongolian Beef is typically made by stir-frying thin slices of flank steak with vegetables such as onions and bell peppers, and then tossing them in a savory and slightly sweet sauce made with soy sauce, brown sugar, garlic, and ginger. The stir-frying process is quick and requires high heat, allowing the beef to cook evenly and quickly while retaining its tender texture.",
             "rating": 3.5,
             "foodImage": "https://i.postimg.cc/8CYHSG4m/pexels-geraud-pfeiffer-6605644.jpg"
           }
@@ -379,14 +385,14 @@
         "recipeTypes2": [
           {
             "ingredients": [
-              "et",
-              "aute",
-              "veniam",
-              "est",
-              "ullamco"
+              "Chicken broth",
+              "Eggs",
+              "Cornstarch",
+              "sauce",
+              "onions"
             ],
-            "recipeName": "Hunter Melton",
-            "cookingMethos": "Dolor id commodo excepteur ad aliqua tempor aliqua esse fugiat nisi et. Incididunt commodo nulla elit voluptate. Ipsum mollit consectetur commodo sunt ad occaecat dolor ullamco deserunt enim irure consectetur nulla.\r\n",
+            "recipeName": "Char Siu Pork",
+            "cookingMethos": "The short cooking method for Kung Pao Chicken is stir-fry. Kung Pao Chicken is a classic Sichuan dish that typically involves stir-frying diced chicken, vegetables such as bell peppers and zucchini, and peanuts in a spicy and savory sauce made with Sichuan peppercorns, chili peppers, soy sauce, and vinegar. The stir-frying process is quick and requires high heat, allowing the chicken and vegetables to cook quickly while retaining their texture and flavors.",
             "rating": 4.9,
             "foodImage": "https://i.postimg.cc/hv1TfRLw/pexels-vicky-tran-2781537.jpg"
           }
@@ -400,8 +406,8 @@
               "aliquip",
               "voluptate"
             ],
-            "recipeName": "Jeannette Tyson",
-            "cookingMethos": "Aliquip aute proident officia aute magna ex voluptate cupidatat ipsum. Culpa excepteur culpa proident quis. Labore do adipisicing ea excepteur culpa laborum labore mollit. Tempor pariatur excepteur cillum excepteur pariatur. Culpa commodo velit incididunt magna excepteur Lorem adipisicing et esse deserunt nisi. Ea id dolor cillum enim adipisicing laborum qui. In id cillum exercitation in.\r\n",
+            "recipeName": "Scallion Pancakes",
+            "cookingMethos": "The short cooking method for Wonton Soup is boil/simmer. Wonton Soup is typically made by boiling wontons filled with a mixture of ground meat (such as pork or shrimp), seasonings, and vegetables in a pot of water or chicken broth. The wontons are cooked until they float to the surface, indicating they are fully cooked. The soup is then typically simmered with additional seasonings and vegetables, such as bok choy or carrots, to add flavor and nutrition to the dish.",
             "rating": 4.7,
             "foodImage": "https://i.postimg.cc/cLn1mMj1/pexels-vin-cius-caricatte-14823746.jpg"
           }
@@ -411,7 +417,7 @@
         "id": 7,
         "picture": "https://i.postimg.cc/t4WCgRNC/pexels-rene-asmussen-3217156.jpg",
         "userPicture": "https://i.postimg.cc/3Rzvs8r8/pexels-andrea-piacquadio-3760514.jpg",
-        "time" : "2 hours 10min ego",
+        "time" : "2 hours 10 min ago",
         "userRating": 4.9,
         "yearOfExperience": 10,
         "name": "Beach Morton",
@@ -426,9 +432,10 @@
         "userComment": "Sunt aliquip occaecat do consectetur eu qui elit non duis laboris officia aliquip mollit. Cillum enim laborum sunt non ut veniam sit sint culpa minim. Esse ullamco incididunt ad aute velit minim sit nostrud cupidatat dolor reprehenderit.\r\n",
         "numberOfRecife": 14,
         "like": 553,
-        "eventDate": "2020-08-23T06:48:27 -06:00",
+        "eventDate": "March 04, 2023",
         "foodName": "Rosales Lara",
         "newsTitle": "Nichole Campbell",
+        "newsAbout": "Steamed Dim Sum Platter is a collection of bite-sized Chinese dishes that are typically served in bamboo baskets. They can include a variety of dumplings, buns, and other small dishes like spare ribs or chicken feet. It's a fun and social meal that's great for sharing with friends or family.",
         "recipeTypes1": [
           {
             "ingredients": [
@@ -479,7 +486,7 @@
         "id": 8,
         "picture": "https://i.postimg.cc/L63zgvsP/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
         "userPicture": "https://i.postimg.cc/NGrT1Hb5/pexels-andrea-piacquadio-3771839.jpg",
-        "time" : "1 hours 20min ego",
+        "time" : "1 hours 20 min ago",
         "userRating": 4.1,
         "yearOfExperience": 10,
         "name": "Annie Meyers",
@@ -494,9 +501,10 @@
         "userComment": "Cillum laborum pariatur anim do eiusmod. Dolor commodo occaecat cillum dolore anim ex dolor. Deserunt exercitation irure amet Lorem qui incididunt amet. Sint excepteur est tempor adipisicing. Aliqua nisi et ullamco proident veniam cupidatat aute culpa est. Eiusmod occaecat non reprehenderit minim proident nostrud. Magna excepteur qui ipsum non minim aliqua sint occaecat.\r\n",
         "numberOfRecife": 19,
         "like": 518,
-        "eventDate": "2020-10-26T11:53:42 -06:00",
+        "eventDate": "March 06, 2023",
         "foodName": "Franklin Maynard",
         "newsTitle": "Kristi Bray",
+        "newsAbout": "Steamed Dim Sum Platter is a collection of bite-sized Chinese dishes that are typically served in bamboo baskets. They can include a variety of dumplings, buns, and other small dishes like spare ribs or chicken feet. It's a fun and social meal that's great for sharing with friends or family.",
         "recipeTypes1": [
           {
             "ingredients": [
@@ -547,7 +555,7 @@
         "id": 9,
         "picture": "https://i.postimg.cc/Fs1V88gx/pexels-anna-shvets-5953550.jpg",
         "userPicture": "https://i.postimg.cc/yNM6BkRb/pexels-linkedin-sales-navigator-2182982.jpg",
-        "time" : "1 hours 10min ego",
+        "time" : "1 hours 10 min ago",
         "userRating": 4.8,
         "yearOfExperience": 5,
         "name": "Chaney Austin",
@@ -562,9 +570,10 @@
         "userComment": "Elit ut aliqua commodo nulla velit consequat reprehenderit non ullamco commodo et dolor mollit cillum. Id dolore deserunt id id magna officia aute ipsum dolor est. Quis nisi nulla excepteur veniam reprehenderit labore occaecat quis.\r\n",
         "numberOfRecife": 16,
         "like": 447,
-        "eventDate": "2020-01-28T08:08:46 -06:00",
+        "eventDate": "March 08, 2023",
         "foodName": "Kathrine Sanders",
         "newsTitle": "Maldonado Harrison",
+        "newsAbout": "Steamed Dim Sum Platter is a collection of bite-sized Chinese dishes that are typically served in bamboo baskets. They can include a variety of dumplings, buns, and other small dishes like spare ribs or chicken feet. It's a fun and social meal that's great for sharing with friends or family.",
         "recipeTypes1": [
           {
             "ingredients": [
